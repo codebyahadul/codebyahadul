@@ -27,8 +27,7 @@
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
 <br/>
 <div>
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=codebyahadul&show_icons=true&theme=github_dark">
-  <!-- <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebyahadul&theme=github_dark"> -->
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebyahadul&theme=github_dark">
  
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebyahadul&theme=github_dark">
 
