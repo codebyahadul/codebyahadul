@@ -16,7 +16,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsahadul99)
   [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079312759357)
 
-<h2 align="left">⚒️Technologies • Tools⚒️</h2>
+<h2 align="left">⚒️Technologies • Tools⚒️ </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,firebase" />
@@ -27,6 +27,11 @@
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
 <br/>
 <div>
+  <div align="center">
+  <a href="https://github.com/codebyahadul">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=codebyahadul&theme=github_dark" alt="GitHub Streak">
+  </a>
+</div>
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebyahadul&theme=github_dark">
  
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebyahadul&theme=github_dark">
