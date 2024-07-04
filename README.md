@@ -10,13 +10,12 @@
   I'ma dedicated frontend developer on a mission to craft exceptional user experiences and turn creative visions into reality. With a solid foundation in HTML, CSS, and JavaScript, I thrive on the ever-evolving challenges of the web development landscape.
 </p>  
 </div>
-## 🌐 Connect with Me
+<h2 align="left">🌐 Connect with Me </h2>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahadaulislam/)
   [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsahadul99)
   [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079312759357)
 
- Feel free to reach out, and let's collaborate on something extraordinary!
 <h2 align="left">⚒️Technologies • Tools⚒️</h2>
 <br/>
 <div align="center">
