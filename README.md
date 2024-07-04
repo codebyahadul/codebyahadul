@@ -7,7 +7,7 @@
 <div>
 <h4 align="left">A passionate Front-End Web Developer from Bangladesh</h4>
 <p>
-  I'ma dedicated frontend developer on a mission to craft exceptional user experiences and turn creative visions into reality. With a solid foundation in HTML, CSS, and JavaScript, I thrive on the ever-evolving challenges of the web development landscape.
+  I'm a dedicated frontend developer on a mission to craft exceptional user experiences and turn creative visions into reality. With a solid foundation in HTML, CSS, and JavaScript, I thrive on the ever-evolving challenges of the web development landscape.
 </p>  
 </div>
 <h2 align="left">🌐 Connect with Me </h2>
@@ -27,7 +27,8 @@
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
 <br/>
 <div>
-  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebyahadul&theme=github_dark">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=codebyahadul&show_icons=true&theme=github_dark">
+  <!-- <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebyahadul&theme=github_dark"> -->
  
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebyahadul&theme=github_dark">
 
